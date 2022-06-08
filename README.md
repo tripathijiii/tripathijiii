@@ -4,7 +4,7 @@
 
 -🌱 I’m currently learning ML and AI/
 
--💬 Ask me about anything related to colaborationg of ML and AI on mobile applications and on web apps.
+-💬 Ask me about anything related ML and AI on the Edge.
 
 <!--
 **tripathijiii/tripathijiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
